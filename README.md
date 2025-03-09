@@ -3,7 +3,7 @@ AI Agent
 
 Do you need an assistant to determine your strategic product? Does analyzing thousands of customer reviews and feedback take days? Hellora-Product-Assistant-HPA analyzes it for you in seconds, delivering the most accurate product strategies! Perfect your analysis, discover trends, and identify your strategic product. Now, instead of struggling with complex data, make fast and smart decisions!
 
-![Inspiration Visual](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA/blob/main/WhatsApp%20Image%202025-03-10%20at%2002.35.23_7b1578a4.jpg)  
+![Inspiration Visual](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA-/blob/main/WhatsApp%20Image%202025-03-10%20at%2002.35.23_170ab060.jpg)  
 
 ## Inspiration
 
