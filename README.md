@@ -92,7 +92,7 @@ The platform processes these queries using **graph-based analytics** and **GPU-a
 *This graph represents the relationships and parameters analyzed in skincare products. It highlights how different product attributes, such as ingredients, customer ratings, and skin types, are interconnected. The graph-based approach allows for deeper insights into product performance and customer preferences.*
 
 ### Prototype Screenshots
-![Prototype Screenshot 1](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA-/blob/main/WhatsApp%20Image%202025-03-10%20at%2002.07.19_f2fbc64b.jpg)  
+![Prototype Screenshot 1](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA-/blob/main/WhatsApp%20Image%202025-03-10%20at%2002.07.19_ad0391d1.jpg)  
 *This screenshot demonstrates the **Hellora Product Assistant (HPA)** in action. Users can input natural language queries, such as "Show me the best moisturizers for oily skin," and receive instant, data-driven responses. The interface is designed to be intuitive and user-friendly, making advanced analytics accessible to everyone.*
 
 ![Prototype Screenshot 2](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA-/blob/main/WhatsApp%20Image%202025-03-10%20at%2002.06.41_bb7471a2.jpg)  
