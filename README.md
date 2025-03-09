@@ -29,7 +29,7 @@ The platform processes these queries using **graph-based analytics** and **GPU-a
    - We started by cleaning and organizing the dataset, which included product names, brands, prices, ratings, ingredients, and customer reviews.
    - The data was transformed into a **graph structure** using **NetworkX** and stored in **ArangoDB** for efficient querying.
   
-       ![Data Cleaning Example](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA/blob/main/download.png)
+       ![Data Cleaning Example](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA-/blob/main/download.png)
 
 2. **Natural Language Query Processing**:
    - We used **LangChain** and **Google Gemini API** to process natural language queries and generate meaningful responses.
