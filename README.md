@@ -84,18 +84,18 @@ The platform processes these queries using **graph-based analytics** and **GPU-a
 ## Visuals
 
 ### Architecture Diagram
-![Architecture Diagram](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA/blob/main/image.png)  
+![Architecture Diagram](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA-/blob/main/image.png)  
 *The architecture diagram illustrates the core components of the **Hellora Product Assistant (HPA)** and how they interact. It showcases the integration of **ArangoDB** for graph-based data storage, **NVIDIA cuGraph** for GPU-accelerated analytics, and **Google Gemini API** for natural language processing. The **Gradio** interface serves as the user-friendly front-end, enabling seamless interaction with the platform.*
 
 ### Skincare Parameters Graph
-![Skincare Parameters Graph](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA/blob/main/skincare.jpeg)  
+![Skincare Parameters Graph](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA-/blob/main/skincare.jpeg)  
 *This graph represents the relationships and parameters analyzed in skincare products. It highlights how different product attributes, such as ingredients, customer ratings, and skin types, are interconnected. The graph-based approach allows for deeper insights into product performance and customer preferences.*
 
 ### Prototype Screenshots
-![Prototype Screenshot 1](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA/blob/main/WhatsApp%20Image%202025-03-10%20at%2002.07.19_f2fbc64b.jpg)  
+![Prototype Screenshot 1](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA-/blob/main/WhatsApp%20Image%202025-03-10%20at%2002.07.19_f2fbc64b.jpg)  
 *This screenshot demonstrates the **Hellora Product Assistant (HPA)** in action. Users can input natural language queries, such as "Show me the best moisturizers for oily skin," and receive instant, data-driven responses. The interface is designed to be intuitive and user-friendly, making advanced analytics accessible to everyone.*
 
-![Prototype Screenshot 2](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA/blob/main/WhatsApp%20Image%202025-03-10%20at%2002.06.41_bb7471a2.jpg)  
+![Prototype Screenshot 2](https://github.com/ProjectsAccounttt/Hellora-Product-Assistant-HPA-/blob/main/WhatsApp%20Image%202025-03-10%20at%2002.06.41_bb7471a2.jpg)  
 *This screenshot showcases the platform's ability to provide detailed product insights, including customer reviews, ratings, and ingredient analysis. It highlights how businesses can use **HPA** to identify top-performing products and areas for improvement.*
 
 ---
